@@ -1,0 +1,233 @@
+day,hours,batch-code,batch,cno,title,credits,fac
+1MON,H1,01-1,B Tech (ICT n CS)-I,EL111(A),Basic Electronic Circuits,3-0-2-4,AK
+1MON,H1,01-1,B Tech (ICT n CS)-I,EL111(B),Basic Electronic Circuits,3-0-2-4,SM
+1MON,H1,01-2,B Tech (ICT n CS)-II,IT216,Design and Analysis of Algorithms,3-0-2-4,AT2
+1MON,H1,01-2,B Tech (ICT n CS)-II,IT216,Design and Analysis of Algorithms,3-0-2-4,SP
+1MON,H1,01-3,B Tech (ICT n CS)-III,IT214,Database Management Systems,3-0-3-4.5,MB
+1MON,H1,01-4,B Tech (ICT n CS)-IV,CT421,Advanced Digital Signal Processing,3-0-2-4,HP
+1MON,H1,01-4,B Tech (ICT n CS)-IV,CT425,RF and Antenna Engineering,3-0-0-3,SG
+1MON,H1,01-4,B Tech (ICT n CS)-IV,IE407,Internet of Things,3-0-2-4,VSP
+1MON,H1,01-4,B Tech (ICT n CS)-IV,IT486,Blockchains and Cryptocurrencies,3-0-0-3,AMM
+1MON,H1,03-1,B Tech (MnC)-I,MC112,Computer Organization and Programming,3-0-0-3,SB
+1MON,H1,03-2,B Tech (MnC)-II,MC211,Functions of Several Variables and PDEs ,3-1-0-4,MS
+1MON,H1,04-1,M Tech (ICT)-I,CT421,Advanced Digital Signal Processing,3-0-2-4,HP
+1MON,H1,04-1,M Tech (ICT)-I,EL524,Basics of VLSI,3-0-0-3,DNC
+1MON,H1,04-1,M Tech (ICT)-I,SC531,Probability and Random Variables,3-0-0-3,NDJ
+1MON,H1,04-2,M Tech (ICT)-II,EL504,Selected Topics in VLSI,3-0-2-4,RP
+1MON,H1,04-2,M Tech (ICT)-II,IT486,Blockchain and Cryptocurrencies,3-0-0-3,AMM
+1MON,H1,04-2,M Tech (ICT)-II,IT524,Computer Vision,3-0-2-4,AH
+1MON,H1,05-1,M Tech (EC-CRR)-I,CT421,Advanced Digital Signal Processing,3-0-2-4,HP
+1MON,H1,05-1,M Tech (EC-CRR)-I,CT425,RF and Antenna Engineering,3-0-0-3,SG
+1MON,H1,05-2,M Tech (EC-CRR)-II,IT524,Computer Vision,3-0-2-4,AH
+1MON,H1,06-1,MSc (IT)-I,PC613,Communication Skills,3-0-2-4,SKS
+1MON,H1,06-2,MSc (IT)-II,IT619,Design of Software Systems,3-0-2-4,JP
+1MON,H1,07-1,MSc (DS)-I,SC614,Statistical Methods (Lab:R),3-0-2-4,PA
+1MON,H1,07-2,MSc (DS)-II,IT641,Deep Learning,3-0-2-4,BG
+1MON,H2,01-3,B Tech (CS) -III,CS374,Computational and Numerical Methods,3-0-3-4.5,MKR
+1MON,H2,01-4,B Tech (CS) -IV,CS401,Computational Finance,3-0-0-3,JM
+1MON,H2,03-1,B Tech (MnC)-I,MC111,"Mathematical, Algorithmic, and Computational Thinking",3-1-0-4,VS
+1MON,H2,07-2,MSc (DS)-II,CS401,Computational Finance,3-0-0-3,JM
+1MON,H3,01-1,B Tech (ICT n CS)-I,IC101,Introduction to ICT,1-0-2-2,AKR
+1MON,H3,01-1,B Tech (ICT n CS)-I,IC101,Introduction to ICT,1-0-2-2,VSP
+1MON,H3,01-1,B Tech (ICT n CS)-I,IT112,Introduction to Programming,3-0-0-3,BG
+1MON,H3,01-1,B Tech (ICT n CS)-I,IT112,Introduction to Programming,3-0-0-3,MK
+1MON,H3,01-2,B Tech (ICT n CS)-II,IT209,Computer Organization,3-0-3-4.5,ARB
+1MON,H3,01-3,B Tech (ICT n CS)-III,IT304,Computer Networks,3-0-3-4.5,PKS
+1MON,H3,01-4,B Tech (CS) -IV,CS407,Computational and Systems Biology,3-0-2-4,Gbaglar
+1MON,H3,01-4,B Tech (ICT n CS)-IV,EL421,Introduction to VLSI Circuits,3-0-2-4,AK
+1MON,H3,01-4,B Tech (ICT n CS)-IV,EL453,Nanoelectronics,3-0-0-3,RP
+1MON,H3,01-4,B Tech (ICT n CS)-IV,IT412,Natural Language Processing,3-0-2-4,PM
+1MON,H3,03-1,B Tech (MnC)-I,MC114,Digital Logic Design,1-0-2-2,PK
+1MON,H3,03-2,B Tech (MnC)-II,MC212,Database Management System,3-0-2-4,AKM
+1MON,H3,04-1,M Tech (ICT)-I,EL510,Introduction to Embedded Systems,3-0-2-4,TKM
+1MON,H3,04-1,M Tech (ICT)-I,IT511,Introduction to Machine Learning,3-0-2-4,PA
+1MON,H3,04-1,M Tech (ICT)-I,IT580,Advanced Algorithm,3-0-0-3,AT2
+1MON,H3,04-1,M Tech (ICT)-I,SC505,Linear Algebra and Optimization,3-0-0-3,AT
+1MON,H3,04-2,M Tech (ICT)-II,EL519,Lowpower VLSI Design,2-0-2-3,BM
+1MON,H3,04-2,M Tech (ICT)-II,IT412,Natural Language Processing,3-0-2-4,PM
+1MON,H3,05-1,M Tech (EC-CRR)-I,IT511,Introduction to Machine Learning,3-0-2-4,PA
+1MON,H3,05-2,M Tech (EC-CRR)-II,IT412,Natural Language Processing,3-0-2-4,PM
+1MON,H3,06-1,MSc (IT)-I,SC612,Discrete Mathematics,3-1-0-4,RM
+1MON,H3,06-2,MSc (IT)-II,IT618,Enterprise Computing,3-0-2-4,PMJ
+1MON,H3,07-1,MSc (DS)-I,IT605,Data Structures and Algorithms (with Python),3-0-2-4,GG
+1MON,H3,07-2,MSc (DS)-II,IT642,Interactive Data Visualization,3-0-2-4,PK
+2TUE,H1,01-2,B Tech (ICT n CS)-II,SC220,Groups and Linear Algebra,3-1-0-4,AT
+2TUE,H1,01-2,B Tech (ICT n CS)-II,SC220,Groups and Linear Algebra,3-1-0-4,RM
+2TUE,H1,01-3,B Tech (ICT n CS)-III,CT303,Digital Communication,3-0-3-4.5,AJ
+2TUE,H1,01-3,B Tech (ICT n CS)-III,CT303,Digital Communication,3-0-3-4.5,DKG
+2TUE,H1,01-4,B Tech (ICT n CS)-IV,CT516,Advanced Digital Communication,3-0-2-4,YV
+2TUE,H1,01-4,B Tech (ICT n CS)-IV,IT414,Software Project Management,3-0-2-4,JP
+2TUE,H1,01-4,B Tech (ICT n CS)-IV,IT468,Natural Computing,3-0-0-3,MKG
+2TUE,H1,01-4,B Tech (ICT n CS)-IV,IT506,Accelerated Computing,3-0-2-4,BC
+2TUE,H1,01-4,B Tech (ICT n CS)-IV,IT561,Advanced Software Engineering,3-0-2-4,ST
+2TUE,H1,03-1,B Tech (MnC)-I,MC123,Discrete Mathematics,3-1-0-4,SP
+2TUE,H1,03-2,B Tech (MnC)-II,MC215,Linear Algebra,3-1-0-4,RM
+2TUE,H1,04-1,M Tech (ICT)-I,IT506,Accelerated Computing,3-0-2-4,BC
+2TUE,H1,04-1,M Tech (ICT)-I,IT561,Advanced Software Engineering,3-0-2-4,ST
+2TUE,H1,04-2,M Tech (ICT)-II,IT414,Software Project Management,3-0-2-4,JP
+2TUE,H1,05-1,M Tech (EC-CRR)-I,CT516,Advanced Digital Communication,3-0-2-4,YV
+2TUE,H1,06-1,MSc (IT)-I,IT615,Database Management Systems,3-0-2-4,PMJ
+2TUE,H1,06-2,MSc (IT)-II,IT414,Software Project Management,3-0-2-4,JP
+2TUE,H1,07-1,MSc (DS)-I,IT615,Database Management Systems,3-0-2-4,PMJ
+2TUE,H1,07-2,MSc (DS)-II,IT414,Software Project Management,3-0-2-4,JP
+2TUE,H2,01-1,B Tech (ICT n CS)-I,PC110,Language and Literature,3-0-0-3,SKS
+2TUE,H2,01-1,B Tech (ICT n CS)-I,PC110,Language and Literature,3-0-0-3,SRG
+2TUE,H2,01-2,B Tech (ICT n CS)-II,CT203,Signals and Systems ,3-1-0-4,AH
+2TUE,H2,01-2,B Tech (ICT n CS)-II,CT203,Signals and Systems ,3-1-0-4,RLD
+2TUE,H2,01-3,B Tech (ICT n CS)-III,IE402,Optimization,3-0-2-4,MK2
+2TUE,H2,01-3,B Tech (ICT n CS)-III,IE404,Digital Image Processing,3-0-2-4,MK
+2TUE,H2,01-3,B Tech (ICT n CS)-III,IE406,Machine Learning,3-0-2-4,MVJ
+2TUE,H2,01-4,B Tech (ICT n CS)-IV,IE402,Optimization,3-0-2-4,MK2
+2TUE,H2,01-4,B Tech (ICT n CS)-IV,IE404,Digital Image Processing,3-0-2-4,MK
+2TUE,H2,01-4,B Tech (ICT n CS)-IV,IE406,Machine Learning,3-0-2-4,MVJ
+2TUE,H2,03-1,B Tech (MnC)-I,PC110,Language and Literature,3-0-0-3,SKS
+2TUE,H2,03-1,B Tech (MnC)-I,PC110,Language and Literature,3-0-0-3,SRG
+2TUE,H2,03-2,B Tech (MnC)-II,MC213,Design and Analysis of Algorithms,3-1-0-4,PB
+2TUE,H2,04-1,M Tech (ICT)-I,PC503,Programming LAB,1-0-4-3,TBD
+2TUE,H2,06-2,MSc (IT)-II,IT634,Information Systems Security,3-0-2-4,MLD
+2TUE,H2,07-2,MSc (DS)-II,IT634,Information Systems Security,3-0-2-4,MLD
+2TUE,H3,01-2,B Tech (ICT n CS)-II,HM216,"Science, Technology, Society",3-0-0-3,SJ
+2TUE,H3,01-3,B Tech (ICT n CS)-III,EL203,Embedded Hardware Design,3-0-3-4.5,TKM
+2TUE,H3,01-4,B Tech (ICT n CS)-IV,SC322,Introduction to Graph Theory,3-0-0-3,VS
+2TUE,H3,01-4,B Tech (ICT n CS)-IV,SC421,Introduction to Modern Algebra,3-0-0-3,GD
+2TUE,H3,01-4,B Tech (ICT n CS)-IV,SC435,Introduction to Complex Network,3-0-0-3,MT
+2TUE,H3,03-2,B Tech (MnC)-II,HM216,"Science, Technology, Society",3-0-0-3,SJ
+2TUE,H3,04-2,M Tech (ICT)-II,PC506,Technical Writing,1-0-0-1,SKS
+2TUE,H3,05-2,M Tech (EC-CRR)-II,PC511,Communication Skills and Technical Writing,1-0-0-1,SKS
+2TUE,H3,06-1,MSc (IT)-I,IT623,Algorithms and Data Structures,3-0-2-4,PS
+2TUE,H3,06-2,MSc (IT)-II,IT627,Cloud Computing,3-0-2-4,LS
+2TUE,H3,07-1,MSc (DS)-I,SC613,Mathematical Foundation for Data Science,3-1-0-4,BC
+2TUE,H3,07-2,MSc (DS)-II,IT627,Cloud Computing,3-0-2-4,LS
+3WED,H1,01-1,B Tech (ICT n CS)-I,IC101,Introduction to ICT,1-0-2-2,AKR
+3WED,H1,01-1,B Tech (ICT n CS)-I,IC101,Introduction to ICT,1-0-2-2,VSP
+3WED,H1,01-1,B Tech (ICT n CS)-I,IT112,Introduction to Programming,3-0-0-3,BG
+3WED,H1,01-1,B Tech (ICT n CS)-I,IT112,Introduction to Programming,3-0-0-3,MK
+3WED,H1,01-2,B Tech (ICT n CS)-II,IT209,Computer Organization,3-0-3-4.5,ARB
+3WED,H1,01-3,B Tech (ICT n CS)-III,IT304,Computer Networks,3-0-3-4.5,PKS
+3WED,H1,01-4,B Tech (CS) -IV,CS407,Computational and Systems Biology,3-0-2-4,Gbaglar
+3WED,H1,01-4,B Tech (ICT n CS)-IV,EL421,Introduction to VLSI Circuits,3-0-2-4,AK
+3WED,H1,01-4,B Tech (ICT n CS)-IV,EL453,Nanoelectronics,3-0-0-3,RP
+3WED,H1,01-4,B Tech (ICT n CS)-IV,IT412,Natural Language Processing,3-0-2-4,PM
+3WED,H1,03-1,B Tech (MnC)-I,MC114,Digital Logic Design,1-0-2-2,PK
+3WED,H1,03-2,B Tech (MnC)-II,MC212,Database Management System,3-0-2-4,AKM
+3WED,H1,04-1,M Tech (ICT)-I,EL510,Introduction to Embedded Systems,3-0-2-4,TKM
+3WED,H1,04-1,M Tech (ICT)-I,IT511,Introduction to Machine Learning,3-0-2-4,PA
+3WED,H1,04-1,M Tech (ICT)-I,IT580,Advanced Algorithm,3-0-0-3,AT2
+3WED,H1,04-1,M Tech (ICT)-I,SC505,Linear Algebra and Optimization,3-0-0-3,AT
+3WED,H1,04-2,M Tech (ICT)-II,EL519,Lowpower VLSI Design,2-0-2-3,BM
+3WED,H1,04-2,M Tech (ICT)-II,IT412,Natural Language Processing,3-0-2-4,PM
+3WED,H1,05-1,M Tech (EC-CRR)-I,IT511,Introduction to Machine Learning,3-0-2-4,PA
+3WED,H1,05-2,M Tech (EC-CRR)-II,IT412,Natural Language Processing,3-0-2-4,PM
+3WED,H1,06-1,MSc (IT)-I,SC612,Discrete Mathematics,3-1-0-4,RM
+3WED,H1,06-2,MSc (IT)-II,IT618,Enterprise Computing,3-0-2-4,PMJ
+3WED,H1,07-1,MSc (DS)-I,IT605,Data Structures and Algorithms (with Python),3-0-2-4,GG
+3WED,H1,07-2,MSc (DS)-II,IT642,Interactive Data Visualization,3-0-2-4,PK
+3WED,H2,01-1,B Tech (ICT n CS)-I,SC107,Calculus,3-1-0-4,NKS
+3WED,H2,01-2,B Tech (ICT n CS)-II,SC217,Electromagnetic Theory,3-1-0-4,AR
+3WED,H2,01-2,B Tech (ICT n CS)-II,SC217,Electromagnetic Theory,3-1-0-4,MT
+3WED,H2,01-3,B Tech (ICT n CS)-III,HM116,Principles of Economics,3-0-0-3,AP
+3WED,H2,01-4,B Tech (ICT n CS)-IV,HM333,Human Behaviour Management,3-0-0-3,N Banerjee
+3WED,H2,01-4,B Tech (ICT n CS)-IV,HM334,Art: Ideas and Perspectives,3-0-0-3,SRG
+3WED,H2,01-4,B Tech (ICT n CS)-IV,HM484,Modern European Philosophy,3-0-0-3,BK
+3WED,H2,03-2,B Tech (MnC)-II,MC214,Operating Systems,3-0-2-4,SS
+3WED,H2,04-1,M Tech (ICT)-I,SC532,"Linear Algebra, Random Variables and Processes",3-0-0-3,AG
+3WED,H2,05-1,M Tech (EC-CRR)-I,SC532,"Linear Algebra, Random Variables and Processes",3-0-0-3,AG
+3WED,H2,06-1,MSc (IT)-I,IT603,Programming,3-0-2-4,LS
+3WED,H2,06-2,MSc (IT)-II,HM333,Human Behaviour Management,3-0-0-3,N Banerjee
+3WED,H2,06-2,MSc (IT)-II,HM334,Art: Ideas and Perspectives,3-0-0-3,SRG
+3WED,H2,06-2,MSc (IT)-II,HM484,Modern European Philosophy,3-0-0-3,BK
+3WED,H2,07-2,MSc (DS)-II,HM333,Human Behaviour Management,3-0-0-3,N Banerjee
+3WED,H2,07-2,MSc (DS)-II,HM334,Art: Ideas and Perspectives,3-0-0-3,SRG
+3WED,H2,07-2,MSc (DS)-II,HM484,Modern European Philosophy,3-0-0-3,BK
+3WED,H3,01-3,B Tech (CS) -III,CS374,Computational and Numerical Methods,3-0-3-4.5,MKR
+3WED,H3,01-4,B Tech (CS) -IV,CS401,Computational Finance,3-0-0-3,JM
+3WED,H3,03-1,B Tech (MnC)-I,MC111,"Mathematical, Algorithmic, and Computational Thinking",3-1-0-4,VS
+3WED,H3,07-2,MSc (DS)-II,CS401,Computational Finance,3-0-0-3,JM
+4THU,H1,01-2,B Tech (ICT n CS)-II,HM216,"Science, Technology, Society",3-0-0-3,SJ
+4THU,H1,01-3,B Tech (ICT n CS)-III,EL203,Embedded Hardware Design,3-0-3-4.5,TKM
+4THU,H1,01-4,B Tech (ICT n CS)-IV,SC322,Introduction to Graph Theory,3-0-0-3,VS
+4THU,H1,01-4,B Tech (ICT n CS)-IV,SC421,Introduction to Modern Algebra,3-0-0-3,GD
+4THU,H1,01-4,B Tech (ICT n CS)-IV,SC435,Introduction to Complex Network,3-0-0-3,MT
+4THU,H1,03-2,B Tech (MnC)-II,HM216,"Science, Technology, Society",3-0-0-3,SJ
+4THU,H1,04-2,M Tech (ICT)-II,PC506,Technical Writing,1-0-0-1,SKS
+4THU,H1,05-2,M Tech (EC-CRR)-II,PC511,Communication Skills and Technical Writing,1-0-0-1,SKS
+4THU,H1,06-1,MSc (IT)-I,IT623,Algorithms and Data Structures,3-0-2-4,PS
+4THU,H1,06-2,MSc (IT)-II,IT627,Cloud Computing,3-0-2-4,LS
+4THU,H1,07-1,MSc (DS)-I,SC613,Mathematical Foundation for Data Science,3-1-0-4,BC
+4THU,H1,07-2,MSc (DS)-II,IT627,Cloud Computing,3-0-2-4,LS
+4THU,H2,01-1,B Tech (ICT n CS)-I,EL111,Basic Electronic Circuits,3-0-2-4,AK
+4THU,H2,01-1,B Tech (ICT n CS)-I,EL111,Basic Electronic Circuits,3-0-2-4,SM
+4THU,H2,01-2,B Tech (ICT n CS)-II,IT216,Design and Analysis of Algorithms,3-0-2-4,AT2
+4THU,H2,01-2,B Tech (ICT n CS)-II,IT216,Design and Analysis of Algorithms,3-0-2-4,SP
+4THU,H2,01-3,B Tech (ICT n CS)-III,IT214,Database Management Systems,3-0-3-4.5,MB
+4THU,H2,01-4,B Tech (ICT n CS)-IV,CT421,Advanced Digital Signal Processing,3-0-2-4,HP
+4THU,H2,01-4,B Tech (ICT n CS)-IV,CT425,RF and Antenna Engineering,3-0-0-3,SG
+4THU,H2,01-4,B Tech (ICT n CS)-IV,IE407,Internet of Things,3-0-2-4,VSP
+4THU,H2,01-4,B Tech (ICT n CS)-IV,IT486,Blockchains and Cryptocurrencies,3-0-0-3,AMM
+4THU,H2,03-1,B Tech (MnC)-I,MC112,Computer Organization and Programming,3-0-0-3,SB
+4THU,H2,03-2,B Tech (MnC)-II,MC211,Functions of Several Variables and PDEs ,3-1-0-4,MS
+4THU,H2,04-1,M Tech (ICT)-I,CT421,Advanced Digital Signal Processing,3-0-2-4,HP
+4THU,H2,04-1,M Tech (ICT)-I,EL524,Basics of VLSI,3-0-0-3,DNC
+4THU,H2,04-1,M Tech (ICT)-I,SC531,Probability and Random Variables,3-0-0-3,NDJ
+4THU,H2,04-2,M Tech (ICT)-II,EL504,Selected Topics in VLSI,3-0-2-4,RP
+4THU,H2,04-2,M Tech (ICT)-II,IT486,Blockchain and Cryptocurrencies,3-0-0-3,AMM
+4THU,H2,04-2,M Tech (ICT)-II,IT524,Computer Vision,3-0-2-4,AH
+4THU,H2,05-1,M Tech (EC-CRR)-I,CT421,Advanced Digital Signal Processing,3-0-2-4,HP
+4THU,H2,05-1,M Tech (EC-CRR)-I,CT425,RF and Antenna Engineering,3-0-0-3,SG
+4THU,H2,05-2,M Tech (EC-CRR)-II,IT524,Computer Vision,3-0-2-4,AH
+4THU,H2,06-1,MSc (IT)-I,PC613,Communication Skills,3-0-2-4,SKS
+4THU,H2,06-2,MSc (IT)-II,IT619,Design of Software Systems,3-0-2-4,JP
+4THU,H2,07-1,MSc (DS)-I,SC614,Statistical Methods (Lab:R),3-0-2-4,PA
+4THU,H2,07-2,MSc (DS)-II,IT641,Deep Learning,3-0-2-4,BG
+5FRI,H1,01-1,B Tech (ICT n CS)-I,SC107,Calculus,3-1-0-4,NKS
+5FRI,H1,01-2,B Tech (ICT n CS)-II,SC217,Electromagnetic Theory,3-1-0-4,AR
+5FRI,H1,01-2,B Tech (ICT n CS)-II,SC217,Electromagnetic Theory,3-1-0-4,MT
+5FRI,H1,01-3,B Tech (ICT n CS)-III,HM116,Principles of Economics,3-0-0-3,AP
+5FRI,H1,01-4,B Tech (ICT n CS)-IV,HM333,Human Behaviour Management,3-0-0-3,N Banerjee
+5FRI,H1,01-4,B Tech (ICT n CS)-IV,HM334,Art: Ideas and Perspectives,3-0-0-3,SRG
+5FRI,H1,01-4,B Tech (ICT n CS)-IV,HM484,Modern European Philosophy,3-0-0-3,BK
+5FRI,H1,03-2,B Tech (MnC)-II,MC214,Operating Systems,3-0-2-4,SS
+5FRI,H1,04-1,M Tech (ICT)-I,SC532,"Linear Algebra, Random Variables and Processes",3-0-0-3,AG
+5FRI,H1,05-1,M Tech (EC-CRR)-I,SC532,"Linear Algebra, Random Variables and Processes",3-0-0-3,AG
+5FRI,H1,06-1,MSc (IT)-I,IT603,Programming,3-0-2-4,LS
+5FRI,H1,06-2,MSc (IT)-II,HM333,Human Behaviour Management,3-0-0-3,N Banerjee
+5FRI,H1,06-2,MSc (IT)-II,HM334,Art: Ideas and Perspectives,3-0-0-3,SRG
+5FRI,H1,06-2,MSc (IT)-II,HM484,Modern European Philosophy,3-0-0-3,BK
+5FRI,H1,07-2,MSc (DS)-II,HM333,Human Behaviour Management,3-0-0-3,N Banerjee
+5FRI,H1,07-2,MSc (DS)-II,HM334,Art: Ideas and Perspectives,3-0-0-3,SRG
+5FRI,H1,07-2,MSc (DS)-II,HM484,Modern European Philosophy,3-0-0-3,BK
+5FRI,H2,01-2,B Tech (ICT n CS)-II,SC220,Groups and Linear Algebra,3-1-0-4,AT
+5FRI,H2,01-2,B Tech (ICT n CS)-II,SC220,Groups and Linear Algebra,3-1-0-4,RM
+5FRI,H2,01-3,B Tech (ICT n CS)-III,CT303,Digital Communication,3-0-3-4.5,AJ
+5FRI,H2,01-3,B Tech (ICT n CS)-III,CT303,Digital Communication,3-0-3-4.5,DKG
+5FRI,H2,01-4,B Tech (ICT n CS)-IV,CT516,Advanced Digital Communication,3-0-2-4,YV
+5FRI,H2,01-4,B Tech (ICT n CS)-IV,IT414,Software Project Management,3-0-2-4,JP
+5FRI,H2,01-4,B Tech (ICT n CS)-IV,IT468,Natural Computing,3-0-0-3,MKG
+5FRI,H2,01-4,B Tech (ICT n CS)-IV,IT506,Accelerated Computing,3-0-2-4,BC
+5FRI,H2,01-4,B Tech (ICT n CS)-IV,IT561,Advanced Software Engineering,3-0-2-4,ST
+5FRI,H2,03-1,B Tech (MnC)-I,MC123,Discrete Mathematics,3-1-0-4,SP
+5FRI,H2,03-2,B Tech (MnC)-II,MC215,Linear Algebra,3-1-0-4,RM
+5FRI,H2,04-1,M Tech (ICT)-I,IT506,Accelerated Computing,3-0-2-4,BC
+5FRI,H2,04-1,M Tech (ICT)-I,IT561,Advanced Software Engineering,3-0-2-4,ST
+5FRI,H2,04-2,M Tech (ICT)-II,IT414,Software Project Management,3-0-2-4,JP
+5FRI,H2,05-1,M Tech (EC-CRR)-I,CT516,Advanced Digital Communication,3-0-2-4,YV
+5FRI,H2,06-1,MSc (IT)-I,IT615,Database Management Systems,3-0-2-4,PMJ
+5FRI,H2,06-2,MSc (IT)-II,IT414,Software Project Management,3-0-2-4,JP
+5FRI,H2,07-1,MSc (DS)-I,IT615,Database Management Systems,3-0-2-4,PMJ
+5FRI,H2,07-2,MSc (DS)-II,IT414,Software Project Management,3-0-2-4,JP
+5FRI,H3,01-1,B Tech (ICT n CS)-I,PC110,Language and Literature,3-0-0-3,SKS
+5FRI,H3,01-1,B Tech (ICT n CS)-I,PC110,Language and Literature,3-0-0-3,SRG
+5FRI,H3,01-2,B Tech (ICT n CS)-II,CT203,Signals and Systems ,3-1-0-4,AH
+5FRI,H3,01-2,B Tech (ICT n CS)-II,CT203,Signals and Systems ,3-1-0-4,RLD
+5FRI,H3,01-3,B Tech (ICT n CS)-III,IE402,Optimization,3-0-2-4,MK2
+5FRI,H3,01-3,B Tech (ICT n CS)-III,IE404,Digital Image Processing,3-0-2-4,MK
+5FRI,H3,01-3,B Tech (ICT n CS)-III,IE406,Machine Learning,3-0-2-4,MVJ
+5FRI,H3,01-4,B Tech (ICT n CS)-IV,IE402,Optimization,3-0-2-4,MK2
+5FRI,H3,01-4,B Tech (ICT n CS)-IV,IE404,Digital Image Processing,3-0-2-4,MK
+5FRI,H3,01-4,B Tech (ICT n CS)-IV,IE406,Machine Learning,3-0-2-4,MVJ
+5FRI,H3,03-1,B Tech (MnC)-I,PC110,Language and Literature,3-0-0-3,SKS
+5FRI,H3,03-1,B Tech (MnC)-I,PC110,Language and Literature,3-0-0-3,SRG
+5FRI,H3,03-2,B Tech (MnC)-II,MC213,Design and Analysis of Algorithms,3-1-0-4,PB
+5FRI,H3,04-1,M Tech (ICT)-I,PC503,Programming LAB,1-0-4-3,TBD
+5FRI,H3,06-2,MSc (IT)-II,IT634,Information Systems Security,3-0-2-4,MLD
+5FRI,H3,07-2,MSc (DS)-II,IT634,Information Systems Security,3-0-2-4,MLD
